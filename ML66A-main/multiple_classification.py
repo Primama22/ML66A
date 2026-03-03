@@ -183,3 +183,7 @@ if(selected == 'Riding'):
 
  
     st.success(Riding_prediction)
+ 
+ 
+ 
+
